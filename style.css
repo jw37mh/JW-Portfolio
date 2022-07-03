@@ -1,0 +1,38 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin:0;
+    padding:0;
+
+}
+h1{
+    color: rgb(39, 12, 12);
+    
+    font-size: 400%;
+}
+.king{
+    color: #1f0244;
+}
+section{
+    display: flex;
+    padding: 5px;
+}
+.half-wight{
+    width: 50%;
+}
+.half-wight img{
+     width:100%;
+}
+.hire-button{
+    text-decoration: none;
+ 
+    padding: 10px 30px;
+
+    border-radius: 5px;
+    background-color: #a30000;
+    color: cornsilk;
+    font-weight: 700;
+}   
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
